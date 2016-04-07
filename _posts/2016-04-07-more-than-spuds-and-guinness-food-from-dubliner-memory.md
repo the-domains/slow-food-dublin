@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'May 30, 8–10 pm'
-datePublished: '2016-04-07T22:03:56.278Z'
-dateModified: '2016-04-07T22:03:22.659Z'
+datePublished: '2016-04-07T22:05:09.270Z'
+dateModified: '2016-04-07T22:04:29.541Z'
 title: 'More than Spuds and Guinness: Food from Dubliner Memory'
 author: []
 sourcePath: _posts/2016-04-07-more-than-spuds-and-guinness-food-from-dubliner-memory.md
@@ -26,9 +26,7 @@ _type: Article
 
 **May 30, 8--10 pm**
 
-**Wigwam Bar**
-
-**54 Middle Abbey St.**
+**Wigwam Bar, ****54 Middle Abbey St.**
 
 Join us for an evening of food stories that break from the usual stereotypes of Irish gastronomy. Drawn from memories of home, travel, work, and play, personal stories tell the 'unofficial' version of Dublin's food, yet one that is more accurate than history generally records. On the centennial of Easter 1916, what could be more revolutionary than telling our own tales of food?
 
