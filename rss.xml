@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[Slow Food Dublin]]></title>
         <description><![CDATA[Slow Food Dublin]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/slow-food-dublin/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 07 Apr 2016 21:15:00 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 07 Apr 2016 21:19:15 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/slow-food-dublin/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/80ad1c218a905a25be53f2dae73c30e42dd0d1f2.jpg" alt="" title="">]]></description>
-            <link>undefinedslow-food-dublin-is-one-of-1300-local-chapters-of-slow-food/index.html</link>
+            <link>https://thegrid.ai/slow-food-dublin/slow-food-dublin-is-one-of-1300-local-chapters-of-slow-food/index.html</link>
             <guid isPermaLink="false">56040a69-8627-4c52-8304-71666d57d729</guid>
             <pubDate>Thu, 07 Apr 2016 21:14:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Make your own vegetable garden!]]></title>
+            <description><![CDATA[<article><h1>Make your own vegetable garden!</h1><p>Tending your own vegetable garden is surely one of the most relaxing and satisfying pastimes , taking care of it day by day and following it through the cycle of the seasons. With a little effort, anyone can do it.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/efc31ace1f17a80ca5de2c83364fa16ed88d4644.jpg"></article>]]></description>
+            <link>http://www.slowfood.com/making-vegetable-garden-home/</link>
+            <guid isPermaLink="false">9a5cc89d-34b2-4137-a6a6-2857b10eb5b0</guid>
+            <pubDate>Thu, 07 Apr 2016 21:19:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
