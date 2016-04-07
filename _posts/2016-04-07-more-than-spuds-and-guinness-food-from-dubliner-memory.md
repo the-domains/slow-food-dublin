@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'May 30, 8–10 pm'
-datePublished: '2016-04-07T22:05:09.270Z'
-dateModified: '2016-04-07T22:04:29.541Z'
+datePublished: '2016-04-07T22:09:10.699Z'
+dateModified: '2016-04-07T22:09:01.840Z'
 title: 'More than Spuds and Guinness: Food from Dubliner Memory'
 author: []
 sourcePath: _posts/2016-04-07-more-than-spuds-and-guinness-food-from-dubliner-memory.md
