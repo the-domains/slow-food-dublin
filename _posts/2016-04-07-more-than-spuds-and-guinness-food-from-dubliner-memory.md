@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'May 30, 8-10pm'
-datePublished: '2016-04-07T22:55:13.468Z'
-dateModified: '2016-04-07T22:54:47.934Z'
+datePublished: '2016-04-07T22:56:41.235Z'
+dateModified: '2016-04-07T22:56:16.445Z'
 title: 'More than Spuds and Guinness: Food from Dubliner Memory'
 author: []
 sourcePath: _posts/2016-04-07-more-than-spuds-and-guinness-food-from-dubliner-memory.md
@@ -22,8 +22,6 @@ url: more-than-spuds-and-guinness-food-from-dubliner-memory/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5ddfd6b2-70c0-4117-9987-51d47c1ac326.jpg)
-
 **May 30, 8-10pm**
 
 **Wigwam Bar, ****54 Middle Abbey St.**
@@ -33,5 +31,6 @@ Join us for an evening of food stories that break from the usual stereotypes of 
 All are encouraged to bring and tell a food story from their personal memory. Email us at [dublin@slowfoodireland.com][0] to confirm a slot.
 
 This event is presented by Slow Food Dublin and the University of Gastronomic Sciences' Eco-Gastronomy Project.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9dc2c863-4f60-43db-a09f-51f6a2d7a32a.jpg)
 
 [0]: mailto: dublin@slowfoodireland.com
