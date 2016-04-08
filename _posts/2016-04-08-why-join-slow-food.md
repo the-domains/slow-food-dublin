@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "People have different reasons for joining Slow Food. That it could be an antidote to fast food is often cited as a reason. Slow Food is more about supporting local food and food traditions than about combating the effects of fast food and fast culture, but it is certainly a consideration.\n\nBy joining, first and foremost you are supporting the objectives of Slow Food, which may be summed by these Seven Pillars:\_"
-datePublished: '2016-04-08T22:52:22.200Z'
-dateModified: '2016-04-08T22:51:55.961Z'
+datePublished: '2016-04-08T22:55:03.012Z'
+dateModified: '2016-04-08T22:54:56.385Z'
 title: "Join Slow Food\_"
 author: []
 sourcePath: _posts/2016-04-08-why-join-slow-food.md
@@ -35,7 +35,8 @@ By joining, first and foremost you are supporting the objectives of Slow Food, w
 * Environmentally responsible food production 
 * Fair and sustainable trade 
 
-The industrialisation of food production and the homogenisation of food distribution (mainly through supermarkets) have also made many people realise that if the trend continues, pretty soon there will be no choice but to eat what we are sold in the supermarkets. These people wish to support local farmers, local producers and local merchants.Slow Food helps them to do that by providing information about local food, access to local food and opportunities to enjoy local food in the company of others who share their concern.
+The industrialisation of food production and the homogenisation of food distribution (mainly through supermarkets) have also made many people realise that if the trend continues, pretty soon there will be no choice but to eat what we are sold in the supermarkets. These people wish to support local farmers, local producers and local merchants. Slow Food helps them to do that by providing information about local food, access to local food and opportunities to enjoy local food in the company of others who share their concern. 
+
 However, it goes beyond just local; Slow Food is good, clean and fair food. Good because it is healthy and tasty, clean because it is not damaging to the environment and fair because it wants to ensure that producers get a fair price for their goods, and consumers get a fair choice and pay a fair price. If these are values you share then why not consider joining Slow Food.
 Also, if you are under the age of 35 you can join for only €12\. Please select the "Youth" membership option at the link below (yes, you can still officially call yourself a youth!). 
 
