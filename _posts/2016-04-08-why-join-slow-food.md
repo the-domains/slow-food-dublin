@@ -1,25 +1,25 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: "People have different reasons for joining Slow Food. That it could be an antidote to fast food is often cited as a reason. Slow Food is more about supporting local food and food traditions than about combating the effects of fast food and fast culture, but it is certainly a consideration.\n\nBy joining, first and foremost you are supporting the objectives of Slow Food, which may be summed by these Seven Pillars:\_"
-datePublished: '2016-04-08T22:43:14.660Z'
-dateModified: '2016-04-08T22:42:55.814Z'
+datePublished: '2016-04-08T22:44:41.417Z'
+dateModified: '2016-04-08T22:44:35.836Z'
 title: "Join Slow Food\_"
 author: []
+sourcePath: _posts/2016-04-08-why-join-slow-food.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-08-why-join-slow-food.md
-published: true
 url: why-join-slow-food/index.html
-_type: Article
+_type: WebPage
 
 ---
 People have different reasons for joining Slow Food. That it could be an antidote to fast food is often cited as a reason. Slow Food is more about supporting local food and food traditions than about combating the effects of fast food and fast culture, but it is certainly a consideration.
