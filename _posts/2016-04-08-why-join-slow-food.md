@@ -5,10 +5,10 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-04-08T22:38:40.228Z'
-dateModified: '2016-04-08T22:38:24.700Z'
-title: "Why join Slow Food?\_"
+description: "People have different reasons for joining Slow Food. That it could be an antidote to fast food is often cited as a reason. Slow Food is more about supporting local food and food traditions than about combating the effects of fast food and fast culture, but it is certainly a consideration.\n\nBy joining, first and foremost you are supporting the objectives of Slow Food, which may be summed by these Seven Pillars:\_"
+datePublished: '2016-04-08T22:43:14.660Z'
+dateModified: '2016-04-08T22:42:55.814Z'
+title: "Join Slow Food\_"
 author: []
 authors: []
 publisher:
@@ -22,8 +22,6 @@ url: why-join-slow-food/index.html
 _type: Article
 
 ---
-# Why join Slow Food? 
-
 People have different reasons for joining Slow Food. That it could be an antidote to fast food is often cited as a reason. Slow Food is more about supporting local food and food traditions than about combating the effects of fast food and fast culture, but it is certainly a consideration.
 By joining, first and foremost you are supporting the objectives of Slow Food, which may be summed by these Seven Pillars: 
 
@@ -39,7 +37,7 @@ The industrialisation of food production and the homogenisation of food distribu
 However, it goes beyond just local; Slow Food is good, clean and fair food. Good because it is healthy and tasty, clean because it is not damaging to the environment and fair because it wants to ensure that producers get a fair price for their goods, and consumers get a fair choice and pay a fair price. If these are values you share then why not consider joining Slow Food.
 Also, if you are under the age of 35 you can join for only €12\. Please select the "Youth" membership option at the link below (yes, you can still officially call yourself a youth!). 
 
-# Benefits of joining Slow Food 
+## Benefits of joining Slow Food 
 
 * a personal membership card, valid for one year (or three years, in case of the triennial membership) 
 * the Slow Food Companion (upon first joining) 
