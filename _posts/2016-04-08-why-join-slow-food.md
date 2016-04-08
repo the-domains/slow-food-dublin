@@ -1,13 +1,13 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-08T22:35:38.015Z'
-dateModified: '2016-04-08T22:35:32.404Z'
+datePublished: '2016-04-08T22:38:40.228Z'
+dateModified: '2016-04-08T22:38:24.700Z'
 title: "Why join Slow Food?\_"
 author: []
 authors: []
@@ -19,7 +19,7 @@ publisher:
 sourcePath: _posts/2016-04-08-why-join-slow-food.md
 published: true
 url: why-join-slow-food/index.html
-_type: WebPage
+_type: Article
 
 ---
 # Why join Slow Food? 
