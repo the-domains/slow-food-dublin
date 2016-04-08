@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "People have different reasons for joining Slow Food.\_That it could be an antidote to fast food is often cited as a reason. Slow Food is more about supporting local food and food traditions than about combating the effects of fast food and fast culture, but it is certainly a consideration."
-datePublished: '2016-04-08T11:49:37.778Z'
-dateModified: '2016-04-08T11:48:26.081Z'
+datePublished: '2016-04-08T11:51:30.595Z'
+dateModified: '2016-04-08T11:51:03.068Z'
 title: Join Slow Food
 author: []
 sourcePath: _posts/2016-04-08-people-have-different-reasons-for-joining-slow-food-that-it.md
@@ -42,9 +42,9 @@ The industrialisation of food production and the homogenisation of food distribu
 However, it goes beyond just local; Slow Food is **good, clean and fair **food. Good because it is healthy and tasty, clean because it is not damaging to the environment and fair because it wants to ensure that producers get a fair price for their goods, and consumers get a fair choice and pay a fair price. If these are values you share then why not consider joining Slow Food.
 
 Also, if you are under the age of 35 you can join for only €12\. Please select the "Youth" membership option at the link below (yes, you can still officially call yourself a youth!).
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f9e6d3bc-5751-48cd-a326-9e02f657765b.jpg)
 
 ## Benefits of joining Slow Food
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f9e6d3bc-5751-48cd-a326-9e02f657765b.jpg)
 
 * a personal membership card, valid for one year (or three years, in case of the triennial membership)
 * the _Slow Food Companion_ (upon first joining)
