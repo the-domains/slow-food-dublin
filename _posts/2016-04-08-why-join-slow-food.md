@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'People have different reasons for joining Slow Food. That it could be an antidote to fast food is often cited as a reason. Slow Food is more about supporting local food and food traditions than about combating the effects of fast food and fast culture, but it is certainly a consideration. By joining, first and foremost you are supporting the objectives of Slow Food, which may be summed by these Seven Pillars:'
-datePublished: '2016-04-29T22:30:56.442Z'
-dateModified: '2016-04-29T22:30:32.565Z'
+datePublished: '2016-04-29T22:33:44.153Z'
+dateModified: '2016-04-29T22:33:36.728Z'
 title: 'Benefits of joining Slow Food '
 author: []
 sourcePath: _posts/2016-04-08-why-join-slow-food.md
@@ -26,12 +26,12 @@ _type: WebPage
 
 People have different reasons for joining Slow Food. That it could be an antidote to fast food is often cited as a reason. Slow Food is more about supporting local food and food traditions than about combating the effects of fast food and fast culture, but it is certainly a consideration. By joining, first and foremost you are supporting the objectives of Slow Food, which may be summed by these Seven Pillars:
 
-* Access to good, clean and fair food
-* Agricultural and food biodiversity
-* Small-scale food production
-* Food sovereignty
+* Access to good, clean and fair food 
+* Agricultural and food biodiversity 
+* Small-scale food production 
+* Food sovereignty 
 * Language, culture and traditional knowledge
-* Environmentally responsible food production
+* Environmentally responsible food production 
 * Fair and sustainable trade
 
 The industrialisation of food production and the homogenisation of food distribution (mainly through supermarkets) have also made many people realise that if the trend continues, pretty soon there will be no choice but to eat what we are sold in the supermarkets. These people wish to support local farmers, local producers and local merchants. Slow Food helps them to do that by providing information about local food, access to local food and opportunities to enjoy local food in the company of others who share their concern. 
